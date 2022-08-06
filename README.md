@@ -1,6 +1,6 @@
 <h1 align="left" id="dhrumishah-title">:wave: Welcome, My name is Jackson</h1>
 
-![](https://www.linkedin.com/in/jackson-jackson/overlay/background-image/)
+<img src="https://www.linkedin.com/in/jackson-jackson/overlay/background-image/">
 
 <br>
 <div align="left">
