@@ -7,6 +7,7 @@
 
 <h2> Who am I? </h2>
 	
+- Expert Wordpress Developer
 - 🕸️ Learning **JavaScript and Python and php**
 - 📔 Loves creating content on **TikTok**
 - 🎾 Monopoly | Chess | Table Tennis
