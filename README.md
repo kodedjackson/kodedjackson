@@ -1,4 +1,4 @@
-<h1 align="left" id="dhrumishah-title">:wave: Welcome, My name is Jackson</h1>
+<h1 align="left" id="dhrumishah-title">:wave: Welcome, My name is Jackson Jackson</h1>
 
 <img src="http://kodedjackson.com/wp-content/uploads/2022/08/kodedjackson.png">
 
