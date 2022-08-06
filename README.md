@@ -1,6 +1,6 @@
 <h1 align="left" id="dhrumishah-title">:wave: Welcome, My name is Jackson</h1>
 
-![](https://pbs.twimg.com/profile_banners/1509809837743357953/1655723049/1080x360)
+![](https://www.linkedin.com/in/jackson-jackson/overlay/background-image/)
 
 <br>
 <div align="left">
