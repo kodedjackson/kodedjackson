@@ -1,6 +1,6 @@
 <h1 align="left" id="dhrumishah-title">:wave: Welcome, My name is Jackson</h1>
 
-<img src="https://www.linkedin.com/in/jackson-jackson/overlay/background-image/">
+<img src="http://kodedjackson.com/wp-content/uploads/2022/08/kodedjackson.png">
 
 <br>
 <div align="left">
