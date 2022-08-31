@@ -73,7 +73,7 @@
 	 
 	 
  <td align="Center" width="25%">   
-        <a href="#dhrumi-tech" >
+        <a href="" >
        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </a>
       <br>CSS-3
