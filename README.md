@@ -31,10 +31,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=kodedjackson&theme=tokyonight&layout=compact&hide_border=true&no-frame=true&no-bg=true)
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kodedjackson&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Jackson Jackson" />
-</a>
-	
 <br>
 
 ## Tech Stack :computer:
