@@ -18,25 +18,18 @@
 <h2>Connect with me at </h2>
 	
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kodedjackson" target="blank"><img src="https://img.shields.io/twitter/follow/kodedjackson?logo=twitter&style=for-the-badge" alt="deetwts"/></a></p>
-	
-<br>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=kodedjackson&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Jackson Jackson" />
-</a>
-
 <br>
 
 <table>
     <tr>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=tuyojr&&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Tuyo's GitHub stats" /></td>
-        <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuyojr&theme=tokyonight&layout=compact&hide_border=true" /></td>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=kodedjackson&&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Kodedjackson GitHub stats" /></td>
+        <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kodedjackson&theme=tokyonight&layout=compact&hide_border=true" /></td>
     </tr>
 </table>
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyojr&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Tuyo's GitHub stats" /></div>
 
-![](https://github-profile-trophy.vercel.app/?username=tuyojr&theme=tokyonight&layout=compact&hide_border=true&no-frame=true&no-bg=true)
+![](https://github-profile-trophy.vercel.app/?username=kodedjackson&theme=tokyonight&layout=compact&hide_border=true&no-frame=true&no-bg=true)
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kodedjackson&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Jackson Jackson" />
