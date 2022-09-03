@@ -26,7 +26,17 @@
 </a>
 
 <br>
-	
+
+<table>
+    <tr>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=tuyojr&&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Tuyo's GitHub stats" /></td>
+        <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuyojr&theme=tokyonight&layout=compact&hide_border=true" /></td>
+    </tr>
+</table>
+
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyojr&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Tuyo's GitHub stats" /></div>
+
+![](https://github-profile-trophy.vercel.app/?username=tuyojr&theme=tokyonight&layout=compact&hide_border=true&no-frame=true&no-bg=true)
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kodedjackson&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Jackson Jackson" />
