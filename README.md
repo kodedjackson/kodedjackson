@@ -8,10 +8,10 @@
 <h2> Who am I? </h2>
 	
 - Expert Wordpress Developer
-- 🕸️ Learning **JavaScript and Python and php**
+- 🕸️ Expert **PHP and Laravel Developer**
 - 📔 Loves creating content on **TikTok**
 - 🎾 Monopoly | Chess | Table Tennis
-- :mailbox:Feel free to **reach** me out!
+- :mailbox:Feel free to **reach** out to me!
 
 <br>
 
